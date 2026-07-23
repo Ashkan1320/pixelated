@@ -9,7 +9,7 @@ using namespace vex;
  * Reminders: 
  * Make sure that all your ports are different and correct! 
  * Make sure all of your motor + piston names are different and not confusing.
- * If it seems like some of your motors are running against eachother in the drivetrain, try switching around the true/falsejngv
+ * If it seems like some of your motors are running against eachother in the drivetrain, try switching around the true/false
 */
 
 //DON'T CHANGE THE NAMES OF THE MOTORS OR SENSORS. Changing the ports to reflect your robot is ok.
